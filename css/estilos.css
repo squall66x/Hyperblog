@@ -10,12 +10,12 @@ body
 
 #cabecera
 {
-    background: #33a;
+    background: rgb(89, 89, 94) url("../imagenes/dragon.png") 10px 10px;
     box-shadow: 0px 2px 20px 0.5px rgba(red, green, blue, 0.75);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
 }
 
 #cabecera #tagline
